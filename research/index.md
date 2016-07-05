@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Research"
+title: Research
+published: true
 ---
 
-I'm Ankit. I am a graduate student in the [Computer Science Department at University of Texas at Austin](http://cs.utexas.edu). I like to mess around with new technologies.  My interests are in automation, systems and web apps. I like to create
+I'm Himanshu. I am a graduate student in the [Computer Science Department at University of Texas at Austin](http://cs.utexas.edu). I like to mess around with new technologies.  My interests are in automation, systems and web apps. I like to create
 things.
 
 I like to play soccer, listen to music, play [Age of
