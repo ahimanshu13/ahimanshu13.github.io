@@ -8,11 +8,12 @@ google_analytics: 'UA-80358408-1'
 
 author:
   name: 'Himanshu Aggrawal'
-  email: himanshu@rice.edu
+  email:
   twitter_username:
   facebook_username:
   github_username:
   linkedin_username: haggrawal
+  web: http://www.ece.rice.edu/~ab28
 
 defaults:
   -
