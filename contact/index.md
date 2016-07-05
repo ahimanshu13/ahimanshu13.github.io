@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 ---
 
-<form action="https://formspree.io/ankit3goyal@gmail.com"
+<form action="https://formspree.io/agghim@gmail.com"
       method="POST">
     <input type="text" name="name"  placeholder="Your name">
     <input type="email" name="_replyto"  placeholder="Your email">
