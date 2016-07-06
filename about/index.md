@@ -2,6 +2,7 @@
 layout: page
 title: About me
 published: true
+categories: about
 ---
 I am currently a fourth-year graduate student in Electrical and Computer Engineering at Rice University. My research interests lie in designing high-speed analog/RF/millimeter-wave integrated circuits, and I work under the guidance of Aydin Babakhani.
 
