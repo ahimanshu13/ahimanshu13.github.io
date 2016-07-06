@@ -1393,7 +1393,7 @@ nav {
       background-color: #77bba5;
       }
 
-.panel-cover--collapsed .nav-fixed-width {
+.panel-cover--collapsed .cover-navigation--primary .nav-fixed-width {
 
 	width: 145px;
 }
