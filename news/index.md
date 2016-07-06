@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Research
+title: News
 published: true
 ---
 
-I'm Himanshu. I am a graduate student in the [Computer Science Department at University of Texas at Austin](http://cs.utexas.edu). I like to mess around with new technologies.  My interests are in automation, systems and web apps. I like to create
-things.
+- Nominated ECE Graduate Student Mentorship Director ----  April'16
+- Won IEEE Microwave Theory and Techniques Society (MTT-S) Graduate Fellowship ---- Mar'16
+- Student paper finalists at the IEEE Radio and Wireless Symposium (RWS) ---- Nov'15
+- Student paper finalists at the IEEE International Microwave and RF Conference (IMaRC) ---- Nov'15
+- Paper accepted at the IEEE Radio and Wireless Symposium  ---- Oct'15
+- Paper accepted at the IEEE International Microwave and RF Conference ---- Sep'15
+- Internship at Texas Instruments, Dallas  ---- May-Aug'15
+- Won scholarship for Ignite (Silicon Valley Entrepreneurship Trek) ---- Jan'15
+- Honourable Mention in Student Paper Competition at International Microwave Symposium ---- June'15
 
-I like to play soccer, listen to music, play [Age of
-Empires](http://store.steampowered.com/app/239550/); you know normal stuff. I watch way too
-much TV and like to read about new technologies. I am a coffee addict in search of a perfect coffee. So if you know of a
-good place for coffee, hit me up!
-
-
-I like to learn languages. Puedo hablar [Español](http://en.wikipedia.org/wiki/Spanish_language), [हिन्दी ](http://en.wikipedia.org/wiki/Hindi) and [ਪੰਜਾਬੀ ](http://en.wikipedia.org/wiki/Punjabi_language). I'd like
-to learn **French** better and **Mandarin Chinese**.
