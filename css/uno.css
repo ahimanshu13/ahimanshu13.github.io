@@ -981,7 +981,9 @@ h5 {
 
 p {
 	margin-bottom: 1.3em;
-	line-height: 1.7em; 
+	line-height: 1.7em; }
+
+.post p	{
 	text-align: justify;}
 
 strong {
