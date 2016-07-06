@@ -1393,9 +1393,9 @@ nav {
       background-color: #77bba5;
       }
 
-.navigation__item .nav-fixed-width {
+.nav-fixed-width {
 
-	width: 100px;
+	width: 145px;
 }
 
 .navigation--social {
