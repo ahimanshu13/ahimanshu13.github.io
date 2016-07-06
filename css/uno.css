@@ -1098,9 +1098,9 @@ pre {
 
 .content-wrapper {
 	z-index: 800;
-	width: 60%;
-	max-width: 800px;
-	margin-left: 40%; }
+	width: 100%;
+	max-width: 776px;
+	margin-left: 34.5%; }
 
 .content-wrapper__inner {
 	margin: 0 0%;
