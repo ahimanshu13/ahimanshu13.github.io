@@ -1393,6 +1393,11 @@ nav {
       background-color: #77bba5;
       }
 
+.navigation__item .nav-fixed-width {
+
+	width: 100px;
+}
+
 .navigation--social {
 	margin-left: 1.5em; }
 	.navigation--social a {
