@@ -4,7 +4,7 @@ title: News
 published: true
 ---
 
-- Nominated ECE Graduate Student Mentorship Director ----  April'16
+- **Nominated ECE Graduate Student Mentorship Director ----  April'16**
 - Won IEEE Microwave Theory and Techniques Society (MTT-S) Graduate Fellowship ---- Mar'16
 - Student paper finalists at the IEEE Radio and Wireless Symposium (RWS) ---- Nov'15
 - Student paper finalists at the IEEE International Microwave and RF Conference (IMaRC) ---- Nov'15
