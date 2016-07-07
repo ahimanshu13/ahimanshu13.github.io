@@ -1482,6 +1482,19 @@ i {
 
 .contactinput {
 	display: block;
+	margin: 10px
+}
+
+textarea {
+	display: block;
+	width: 240px;
+	padding: 1em 1em;
+	background: #FFF;
+	border: 1px solid #dddddd;
+	border-radius: 3px;
+	font-size: .9em;
+	color: #666666; 
+	margin: 10px
 }
 
 input[type="text"],
