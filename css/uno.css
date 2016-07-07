@@ -1240,8 +1240,12 @@ hr {
 
 .panel-cover__divider {
 	width: 50%;
-	margin: 10px auto;
+	margin: 40px auto;
 	border-top: 1px solid rgba(255, 255, 255, 0.14); }
+
+.panel-cover--collapsed .panel-cover__divider {
+	margin: 10px auto;
+	 }
 
 .panel-cover__divider--secondary {
 	width: 15%; }
