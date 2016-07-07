@@ -1,17 +1,11 @@
 ---
 layout: page
-title: "Research"
+title: "Contact me"
 ---
 
-
 <form id="contact-form" action="https://formspree.io/agghim@gmail.com" method="post">
-	<input type="text" name="Name" placeholder="Name" required>
-	<input type="email" name="Email" placeholder="Email" required>
+	<input type="text" name="Name" placeholder="Name" class="contactinput" required>
+	<input type="email" name="Email" placeholder="Email" class="contactinput" required>
 	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
-	<!-- CONFIG -->
-	<input class="is-hidden" type="text" name="_gotcha">
-	<input type="hidden" name="_subject" value="Subject">
-	<input type="hidden" name="_cc" value="email@cc.com">
-	<!-- /CONFIG -->
 	<input class="submit" type="submit" value="Send">
 </form>
