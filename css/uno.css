@@ -1594,7 +1594,8 @@ input[type="submit"] {
 input[type="submit"] {
 	margin: 10px;
 	width: 430px;
-	background-color: #123123;
+	background-color: #157682;
+	color: white;
 }
 
 @media all and (min-width: 1300px) {
