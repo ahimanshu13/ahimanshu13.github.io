@@ -1509,7 +1509,8 @@ input[type="number"],
 input[type="email"],
 input[type="url"],
 input[type="search"],
-input[type="tel"] {
+input[type="tel"],
+input[type="submit"] {
 	width: 240px;
 	padding: 1em 1em;
 	background: #FFF;
