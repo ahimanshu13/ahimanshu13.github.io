@@ -11,5 +11,5 @@ published: true
 - Paper accepted at the IEEE Radio and Wireless Symposium  --- Oct'15
 - Paper accepted at the IEEE International Microwave and RF Conference --- Sep'15
 - Internship at Texas Instruments, Dallas  --- May-Aug'15
-- Won scholarship for Ignite (Silicon Valley Entrepreneurship Trek**) --- Jan'15
+- Won scholarship for Ignite (Silicon Valley Entrepreneurship Trek) --- Jan'15
 - Honourable Mention in Student Paper Competition at International Microwave Symposium --- June'15
