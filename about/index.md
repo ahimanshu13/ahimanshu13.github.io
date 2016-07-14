@@ -11,4 +11,4 @@ In my spare time, I enjoy hacking circuits and reading about the challenging pro
 
 An admirer of Nature and its laws and hence a keen Physicist. Love to observe and engage in intellectual and metaphorical discussions.
 
-I've always been a musical person; I play amateur electric guitar and love listening to soft, psychedelic music and guitar solos. Obsessed with car and planes, in the process of modifying my new RC car and soon become an ameture pilot.
+I've always been a musical person; I play amateur electric guitar and love listening to soft psychedelic music and guitar solos. Obsessed with car and planes, in the process of modifying my new RC car and soon to become an armature pilot.
