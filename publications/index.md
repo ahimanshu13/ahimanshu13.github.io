@@ -26,6 +26,8 @@ published: true
 **- C2:** ''A 40GS/s Track-and-Hold Amplifier with 62dB SFDR3 in 45nm CMOS SOI'' --- IMS'14 **(Honorable Mention)**<br>
 **- C1:** ''Model Predictive Control Based Selective Harmonic Mitigation Technique for Multilevel Cascaded H-bridge Converters'' --- IECON'11<br>
 
-### Grants
+### Selected Grants Written
 
-**- G4:**
+**- G3:** Terabit-per-second Scale Networking –-- NSF’16<br>
+**- G2:** Securing Highly-Directional High-Frequency Communication –-- NSF’15<br>
+**- G1:** Scaling WLAN Throughput and Range with Wide Aperture and 100× Spectrum Diversity --- NSF’14<br>
