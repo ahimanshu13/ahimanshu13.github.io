@@ -7,7 +7,7 @@ categories: about
 
 I am currently a fifth-year graduate student in [Electrical and Computer Engineering](http://ece.rice.edu){:target="_blank"} at [Rice University](http://rice.edu){:target="_blank"}. My research interests lie in designing high-speed analog/RF/millimeter-wave integrated circuits, and I work under the guidance of [Aydin Babakhani](http://ece.rice.edu/~ab28/){:target="_blank"}.
 
-In my leisure, I enjoy hacking circuits and reading about the challenging problems of physics. You'll often find me building/rebuilding/modifying/hacking/destroy existing electronic systems to make them do something it was not originally intended to. A very early adaptor who like to mess with new technologies (innovators on [Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations) curve).
+In my leisure, I enjoy hacking circuits and reading about the challenging problems of physics. You'll often find me building/rebuilding/modifying/hacking/destroy existing electronic systems to make them do something it was not originally intended to. A very early adaptor who like to mess with new technologies (innovators on [Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations){:target="_blank"} curve).
 
 An admirer of Nature and its laws and hence a keen Physicist. Love to observe and engage in intellectual and metaphorical discussions. A little peckish for knowledge and adventure!
 
