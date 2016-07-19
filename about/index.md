@@ -40,8 +40,8 @@ td {
     <th>Academic Advisor: Prof. Aydin Babakhani</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>M.S., Ph.D. Electrical & Computer Engineering</td>
+    <td>Aug.’12 – May.’17 (expected)</td>
   </tr>
   <tr>
     <td></td>
