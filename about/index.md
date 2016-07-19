@@ -19,5 +19,8 @@ Rice University, USA												Academic Advisor: Prof. Aydin Babakhani<br>
 M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expected)<br>
 Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4<br>
 
-<p align="right">A right-aligned paragraph.</p>
-<p align="left">A right-aligned paragraph.</p>
+<p>you will need</p>
+
+<p align="right">to insert</p>
+
+<p align="left">special tags</p>
