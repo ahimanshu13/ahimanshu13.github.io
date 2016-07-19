@@ -26,11 +26,11 @@ table {
     width: 100%;}
 th {   
     text-align: left;
-    padding: 2px;}
+    padding: 4px;}
 
 td {
     text-align: left;
-    padding: 2px;}
+    padding: 4px;}
 </style>
 
 
@@ -52,7 +52,15 @@ td {
     <td>Aug.’08–Apr.’12</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>B.Tech. Electrical Engineering</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
   </tr>
   <tr>
