@@ -20,10 +20,10 @@ table {
     width: 100%;}
 th {   
     text-align: left;
-    padding: 4px;}
+    padding: 5px;}
 td {
     text-align: left;
-    padding: 4px;}
+    padding: 5px;}
 </style>
 
 
