@@ -29,7 +29,7 @@ td {
 
 <table>
   <tr>
-    <th>Rice University, USA</th>
+    <th>**Rice University, USA**</th>
     <th>Aug.’12 – May.’17 (expected)</th>
   </tr>
   <tr>
