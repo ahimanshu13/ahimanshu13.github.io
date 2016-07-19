@@ -21,10 +21,10 @@ published: true
 
 ### Conference Publications
 
-**- C4:** ''An Ultra-Wide-band Impulse Receiver for sub-100fsec Time-Transfer and sub-30μm Localization'' --- RFIC'15 **(Best paper award finalist)**<br>
-**- C3:** ''Ultra-Wideband Pulse-Based Directional Modulation'' --- IMaRC'15 **(Best paper award finalist)**<br>
-**- C2:** ''A 40GS/s Track-and-Hold Amplifier with 62dB SFDR3 in 45nm CMOS SOI'' --- IMS'14 **(Honorable Mention)**<br>
-**- C1:** ''Model Predictive Control Based Selective Harmonic Mitigation Technique for Multilevel Cascaded H-bridge Converters'' --- IECON'11<br>
+**- C4:** ''An Ultra-Wide-band Impulse Receiver for sub-100fsec Time-Transfer and sub-30μm Localization'' --- RFIC'15 **(Best paper award finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7444359&newsearch=true&queryText=H.%20Aggrawal)]<br>
+**- C3:** ''Ultra-Wideband Pulse-Based Directional Modulation'' --- IMaRC'15 **(Best paper award finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7411369&newsearch=true&queryText=H.%20Aggrawal)]<br>
+**- C2:** ''A 40GS/s Track-and-Hold Amplifier with 62dB SFDR3 in 45nm CMOS SOI'' --- IMS'14 **(Honorable Mention)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6848630&newsearch=true&queryText=H.%20Aggrawal)]<br>
+**- C1:** ''Model Predictive Control Based Selective Harmonic Mitigation Technique for Multilevel Cascaded H-bridge Converters'' --- IECON'11 [[Link](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6120037&newsearch=true&queryText=H.%20Aggrawal)]<br>
 
 ### Selected Grants Written
 
