@@ -30,7 +30,7 @@ td {
 <table>
   <tr>
     <th><b>Rice University, USA</b></th>
-    <th>Aug.’12 – May.’17 (expected)</th>
+    <th>Aug.’12 – May’17 (expected)</th>
   </tr>
   <tr>
     <td>M.S., Ph.D. Electrical & Computer Engineering</td>
