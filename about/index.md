@@ -26,11 +26,11 @@ table {
     width: 100%;}
 th {   
     text-align: left;
-    padding: 8px;}
+    padding: 2px;}
 
 td {
     text-align: left;
-    padding: 8px;}
+    padding: 2px;}
 </style>
 
 
