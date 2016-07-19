@@ -11,7 +11,7 @@ In my leisure, I enjoy hacking circuits and reading about the challenging proble
 
 An admirer of Nature and its laws and hence a keen Physicist. Love to observe and engage in intellectual and metaphorical discussions. A little peckish for knowledge and adventure!
 
-I've always been a musical person; I play amateur electric guitar and love listening to soft psychedelic music with solos (can't get enough of Pink Flody). A bookworm, try to read atlest a book a month from all walks of genre. Obsessed with cars and planes, in the process of modifying my new RC car and soon to become an armature pilot. A coffee enthusiast in search of a perfect cup, so if you know of a good place for coffee, hit me up!
+I've always been a musical person; I play amateur electric guitar and love listening to soft psychedelic music with solos (can't get enough of Pink Floyd). A bookworm who tries to read at least a book a month from all walks of genre. Obsessed with cars and planes, in the process of modifying my new RC car and soon to become an armature pilot. A coffee enthusiast in search of a perfect cup, so if you know of a good place for coffee, hit me up!
 
 ## Education
 <style>
