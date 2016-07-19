@@ -20,3 +20,4 @@ M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expe
 Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4<br>
 
 <p align="right">A right-aligned paragraph.</p>
+<p align="left">A right-aligned paragraph.</p>
