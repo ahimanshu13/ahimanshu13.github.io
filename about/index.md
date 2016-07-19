@@ -14,12 +14,6 @@ An admirer of Nature and its laws and hence a keen Physicist. Love to observe an
 I've always been a musical person; I play amateur electric guitar and love listening to soft psychedelic music with solos. Obsessed with car and planes, in the process of modifying my new RC car and soon to become an armature pilot.
 
 ### Education
-
-Rice University, USA												Academic Advisor: Prof. Aydin Babakhani<br>
-M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expected)<br>
-Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4<br>
-
-
 <style>
 table {
     border-collapse: collapse;
@@ -27,7 +21,6 @@ table {
 th {   
     text-align: left;
     padding: 4px;}
-
 td {
     text-align: left;
     padding: 4px;}
@@ -50,10 +43,6 @@ td {
   <tr>
     <td>Indian Institute of Technology (IITJ), India</td>
     <td>Aug.’08–Apr.’12</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>B.Tech. Electrical Engineering</td>
