@@ -30,4 +30,4 @@ published: true
 
 **- G3:** Terabit-per-second Scale Networking -- NSF’16<br>
 **- G2:** Securing Highly-Directional High-Frequency Communication -- NSF’15<br>
-**- G1:** Scaling WLAN Throughput and Range with Wide Aperture and 100× Spectrum Diversity --- NSF’14<br>
+**- G1:** Scaling WLAN Throughput and Range with Wide Aperture and 100× Spectrum Diversity -- NSF’14<br>
