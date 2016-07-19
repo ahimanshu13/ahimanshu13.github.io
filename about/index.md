@@ -48,19 +48,19 @@ td {
     <td></td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
+    <td>Indian Institute of Technology (IITJ), India</td>
+    <td>Aug.’08–Apr.’12</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
+    <td>B.Tech. Electrical Engineering</td>
+    <td></td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
+    <td>Universidad de Sevilla, Spain</td>
+    <td>Sept.’10–Aug.’11</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
+    <td>Student exchange program</td>
+    <td></td>
   </tr>
 </table>
