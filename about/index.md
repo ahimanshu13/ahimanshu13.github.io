@@ -19,8 +19,72 @@ Rice University, USA												Academic Advisor: Prof. Aydin Babakhani<br>
 M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expected)<br>
 Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4<br>
 
-<p>you will need</p>
+table {
 
-<p align="right">to insert</p>
+    border-collapse: collapse;
+    width: 100%;
+}
 
-<p align="left">special tags</p>
+th {
+    
+    text-align: left;
+    padding: 8px;
+
+
+}
+
+td {
+    
+    text-align: left;
+    padding: 8px;
+
+}
+
+to {
+    
+    text-align: left;
+    padding: 8px;
+
+}
+
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
