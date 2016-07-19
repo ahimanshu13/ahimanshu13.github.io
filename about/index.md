@@ -42,7 +42,7 @@ td {
   </tr>
   <tr>
     <td>Indian Institute of Technology (IITJ), India</td>
-    <td>Aug.’08–Apr.’12</td>
+    <td>Aug.’08 – Apr.’12</td>
   </tr>
   <tr>
     <td>B.Tech. Electrical Engineering</td>
@@ -54,7 +54,7 @@ td {
   </tr>
   <tr>
     <td>Universidad de Sevilla, Spain</td>
-    <td>Sept.’10–Aug.’11</td>
+    <td>Sept.’10 – Aug.’11</td>
   </tr>
   <tr>
     <td>Student exchange program</td>
