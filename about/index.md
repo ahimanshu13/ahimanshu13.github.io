@@ -36,8 +36,8 @@ td {
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th>Rice University, USA</th>
+    <th>Academic Advisor: Prof. Aydin Babakhani</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
