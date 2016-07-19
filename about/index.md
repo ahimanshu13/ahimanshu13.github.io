@@ -13,6 +13,6 @@ An admirer of Nature and its laws and hence a keen Physicist. Love to observe an
 
 I've always been a musical person; I play amateur electric guitar and love listening to soft psychedelic music with solos. Obsessed with car and planes, in the process of modifying my new RC car and soon to become an armature pilot.
 
-Rice University, USA												Academic Advisor: Prof. Aydin Babakhani
-M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expected)
-Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4
+Rice University, USA												Academic Advisor: Prof. Aydin Babakhani<br>
+M.S., Ph.D. Electrical & Computer Engineering						Aug.’12 – May.’17 (expected)<br>
+Research Assistant in Rice Integrated Systems and Circuits (RISC)	Aggregate: 3.81/4<br>
