@@ -27,8 +27,6 @@ table {
     border-spacing: 15px;
 }
 </style>
-</head>
-<body>
 
 <table style="width:100%">
   <tr>
