@@ -30,11 +30,11 @@ td {
 <table>
   <tr>
     <th>Rice University, USA</th>
-    <th>Academic Advisor: Prof. Aydin Babakhani</th>
+    <th>Aug.’12 – May.’17 (expected)</th>
   </tr>
   <tr>
     <td>M.S., Ph.D. Electrical & Computer Engineering</td>
-    <td>Aug.’12 – May.’17 (expected)</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
