@@ -27,7 +27,7 @@ Ultra-wideband Pulse-based Directional Modulation is used for used for secure co
 (A new techniques for ultra- wideband joint spatial coding is introduced in order to establish a secure line- of-sight (LOS) wireless communication link, performing precision localization of point objects, and generating high-resolution images from complex scenes. In the proposed technique, symbol generation and coding are jointly performed by multiple widely spaced transmitters. This method enables the transmission of directionally-modulated signals that can only be decoded at the desired angle, resulting in a secure communication link. It is also shown that joint spatial coding by multiple transmitters that are synchronized with each other enables the precise localization of multiple point objects and allows high-resolution 3-dimensional imaging of distributed objects. The technique is demonstrated experimentally in the frequency range 3–10GHz by generating and detecting ultra-wideband pulses.)
 [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7411369&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
 
-### Hi-speed Analog to Digital Coverter
+### Hi-speed Analog to Digital Converter
 
 A high-speed analog to digital (ADC) is developed in 45nm CMOS technology. The architecture uses Active Cancellation to mitigate the parasitic leakages in a transmission gate and increase the isolation. This increased isolation increases the performance of ADCs. A patent has been granted on the underline IP.
  
