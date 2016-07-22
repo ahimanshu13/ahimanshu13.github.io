@@ -11,6 +11,7 @@ In recent years, the research community has reported high-frequency energy detec
 
 The proposed idea is to implement laser-free, fully electronic samplers sample picosecond pulses with a sampling rate exceeding 50 GHz. 
 (More information coming soon after successful publication)
+[[Link](http://www.ece.rice.edu/~ab28/){:target="_blank"}]
 
 
 ### Ultra-Wideband Time-Transfer
