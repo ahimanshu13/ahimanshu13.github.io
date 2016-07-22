@@ -9,17 +9,17 @@ My Research work focuses on analysis, design, and testing of integrated circuits
 
 (More information coming soon after successful publication)
 
-
+<br>
 - ### Ultra-Wideband Time-Transfer
 
 (More information coming soon after successful publication)
 
-
+<br>
 - ### Ultra-wideband Pulse-based Directional Modulation
 
 Ultra-wideband Pulse-based Directional Modulation is used for used for secure communication and precission localization.
 
-
+<br>
 - ### Hi-speed Analog to Digital Coverter
 
 A high-speed analog to digital (ADC) is developed in 45nm CMOS technology. The architecuture uses Active Cancellation to mitigate the parasitic leakages in a transmission gate and increase the isolation. This increased isolation increases the preformance of ADCs.
