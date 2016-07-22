@@ -7,18 +7,19 @@ My Research work focuses on analysis, design, and testing of integrated circuits
 
 ###  Ultra-Wideband Impulse Transceiver
 
+In recent years, the research community has reported high-frequency energy detectors in CMOS that operate up to several THz. Currently, the only way to sample a picosecond signal is via photoconductive detection with a femtosecond laser and a PCA. The laser produces 100-fsec optical pulses to generate electron-hole pairs with a short (~1psec) lifetime at the center of the PCA. These electron and holes interact with the electric field of the incoming wave to generate DC current. Since the lifetime of the electron and holes is ~1psec, they can support a picosecond sampler. Although these systems have a large effective bandwidth (hundreds of GHz), the repetition rate of the fsec laser (≤ 100 MHz) limits their sampling rate. Furthermore, these systems require an expensive laser, sensitive optical alignment, and a mechanical delay line to scan a sampling time with steps smaller than 100 fsec.
+
+The proposed idea is to implement laser-free, fully electronic samplers sample picosecond pulses with a sampling rate exceeding 50 GHz. 
+
 (More information coming soon after successful publication)
 
 
 ### Ultra-Wideband Time-Transfer
 
-(More information coming soon after successful publication)  
-  
-   
-     
-       
-       
+Tight synchronization of a distributed array with widely-spaced sparse elements is a key enabler in coherent combining of signals in space. The objective of this project is to build a wireless synchronization link capable of synchronizing a master node to multiple slave nodes with timing jitter of less than 100fsec. One technique for achieving time synchronization among array elements is to use crystal oscillators at each node. Most commercial Temperature Compensated Crystal Oscillators (TCXOs) have a frequency stability of 1 to 5ppm. With this level of stability and a carrier frequency of 100GHz, the local oscillator (LO) frequencies of the transmitting nodes can vary by 500kHz. This frequency difference will cause a phase error of 9° in 50ns (500kHz × 50ns × 360°=9°). This large phase error can severely degrade the level of coherency in arrays with widely spaced antennas. A time-domain waveform sensitive circuitry is designed to generate a timing reference from the LOS signal. To increase the accuracy of the timing reference the circuit extracts the zero crossing of the LOS pulse. To further improve the accuracy, the zero-crossing of the main impulse is separated from the ringing effects caused by nearby objects (antenna packaging, DC biasing wires, etc).
 
+(More information coming soon after successful publication)
+  
 
 ### Ultra-wideband Pulse-based Directional Modulation
 
