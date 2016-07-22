@@ -10,7 +10,6 @@ My Research work focuses on analysis, design, and testing of integrated circuits
 In recent years, the research community has reported high-frequency energy detectors in CMOS that operate up to several THz. Currently, the only way to sample a picosecond signal is via photoconductive detection with a femtosecond laser and a PCA. The laser produces 100-fsec optical pulses to generate electron-hole pairs with a short (~1psec) lifetime at the center of the PCA. These electron and holes interact with the electric field of the incoming wave to generate DC current. Since the lifetime of the electron and holes is ~1psec, they can support a picosecond sampler. Although these systems have a large effective bandwidth (hundreds of GHz), the repetition rate of the fsec laser (≤ 100 MHz) limits their sampling rate. Furthermore, these systems require an expensive laser, sensitive optical alignment, and a mechanical delay line to scan a sampling time with steps smaller than 100 fsec.
 
 The proposed idea is to implement laser-free, fully electronic samplers sample picosecond pulses with a sampling rate exceeding 50 GHz. 
-
 (More information coming soon after successful publication)
 
 
