@@ -15,7 +15,7 @@ author:
   linkedin_username: haggrawal
   web: http://www.ece.rice.edu/~ab28
   scholar: https://scholar.google.com/citations?user=4pWM03cAAAAJ&hl=en
-  cv: { "images/profile.jpg" | prepend: site.baseurl }
+  cv: http://himanshua.com/Documents/Resume.pdf
 
 defaults:
   -
