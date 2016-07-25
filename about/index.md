@@ -36,6 +36,18 @@ td {
     <td>M.S., Ph.D. Electrical & Computer Engineering</td>
     <td></td>
   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Universidad de Sevilla, Spain</td>
+    <td>Sept.’10 – Aug.’11</td>
+  </tr>
+  <tr>
+    <td>Student exchange program</td>
+    <td></td>
+  </tr>
   <tr>
     <td></td>
     <td></td>
@@ -48,16 +60,5 @@ td {
     <td>B.Tech. Electrical Engineering</td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Universidad de Sevilla, Spain</td>
-    <td>Sept.’10 – Aug.’11</td>
-  </tr>
-  <tr>
-    <td>Student exchange program</td>
-    <td></td>
-  </tr>
+ 
 </table>
