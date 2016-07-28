@@ -1236,10 +1236,11 @@ hr {
 	margin-bottom: .2em; }
 
 .panel-cover__description {
-  	/*font-size: 2.5em;*/
+  	font-size: 1.3em;
 	margin: 0 20px; }
 
 .panel-cover--collapsed .panel-cover__description {
+  	font-size: 1em;
 	margin: 0 20px; }
 
 .panel-cover__divider {
