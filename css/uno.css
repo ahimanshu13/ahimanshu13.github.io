@@ -1238,6 +1238,9 @@ hr {
 .panel-cover__description {
 	margin: 0 20px; }
 
+.panel-cover--collapsed .panel-cover__description {
+	margin: 0 20px; }
+
 .panel-cover__divider {
 	width: 50%;
 	margin: 30px auto;
