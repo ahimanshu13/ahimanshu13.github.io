@@ -1627,7 +1627,7 @@ alert {
 	.navigation--social {
 		margin-top: 5px;
 		margin-left: 0; } }
-@media all and (max-width: 1200px) {
+@media all and (max-width: 1100px) {
 	.btn-mobile-menu {
 		display: block; }
 
