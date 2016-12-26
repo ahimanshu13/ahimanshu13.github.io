@@ -14,7 +14,7 @@ published: true
 
 ### Journal Publications
 
-**- J3:** ''Techniques for Generation and Detection of Picosecond Pulses and Their Applications'' ---  **(Invited)** RWW special issue of IEEE Microwave Magazine 2016<br>
+**- J3:** ''Techniques for Generation and Detection of Picosecond Pulses and Their Applications'' ---  RWW special issue of IEEE Microwave Magazine 2016**(Invited)**[[Link](https://www.google.com/patents/US9246505){:target="_blank"}]<br>
 **- J2:** ''Ultra-Wideband Joint Spatial Coding for Secure Communication and High-Resolution Imaging'' --- T-MTT (under review)<br>
 **- J1:** ''High-speed Track-and-Hold Sampler with Active Cancellation'' --- T-MTT (under review)<br>
 
