@@ -16,5 +16,5 @@ published: true
 - Internship at Texas Instruments, Dallas  --- May-Aug'15
 - Won scholarship for Ignite (Silicon Valley Entrepreneurship Trek) --- Jan'15
 - Received M.S. degree in Electrical Engineering from Rice University and Thesis submitted --- Dec'14 [[Link](https://scholarship.rice.edu/handle/1911/87740){:target="_blank"}]
-- Honourable Mention in Student Paper Competition at International Microwave Symposium --- June'14
+- Honourable Mention in Student Paper Competition at International Microwave Symposium --- June'14 [[Link](http://www.ece.rice.edu/news/Students_IMS2014_Finalists.aspx){:target="_blank"}]
 - Paper accepted at the IEEE International Microwave and RF Conference --- Jan'14
