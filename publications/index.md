@@ -15,7 +15,7 @@ published: true
 ### Journal Publications
 
 **- J3:** ''A Sampler for Detection of Picosecond Pulses'' --- T-MTT (under review)<br>
-**- J2:** ''_Gone in a Picosecond_: Techniques for the Generation and Detection of Picosecond Pulses and Their Applications'' ---  RWW special issue of IEEE Microwave Magazine 2016  **(Invited)** [[Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7741026){:target="_blank"}]<br>
+**- J2:** ''Gone in a Picosecond: Techniques for the Generation and Detection of Picosecond Pulses and Their Applications'' ---  RWW special issue of IEEE Microwave Magazine 2016  **(Invited)** [[Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7741026){:target="_blank"}]<br>
 **- J1:** ''Ultra-Wideband Joint Spatial Coding for Secure Communication and High-Resolution Imaging'' --- T-MTT<br>
 
 
