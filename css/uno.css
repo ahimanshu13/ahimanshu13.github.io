@@ -1606,10 +1606,7 @@ input[type="submit"] {
 alert {
 	margin: 10px;
 }
-@media all and (min-width: 1600px) {
-	.content-wrapper {
-		margin-left: 410px;
-  		width: 72%;} }
+
 @media all and (min-width: 1300px) {
 	.content-wrapper {
 		margin-left: 410px; } }
