@@ -4,6 +4,7 @@ title: News
 published: true
 ---
 
+- Nominated for EuMIC Young Engineer Prize (Results pending)  --- May'15
 - Paper accepted at the European Microwave Week  --- Apr'15
 - Paper accepted in the IEEE Transactions on Microwave Theory and Techniques --- Nov'16
 - NSF grant for developing Terabit-per-second Networking – Oct’16 [[Link](http://news.rice.edu/2016/10/11/marconi-inspires-rice-university-design-for-1-terabit-wireless-2/){:target="_blank"}]
