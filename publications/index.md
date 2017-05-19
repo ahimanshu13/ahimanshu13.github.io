@@ -21,9 +21,9 @@ published: true
 
 ### Conference Publications
 
-**- C5:** ''A Nonlinear Impulse Sampler for Detection of Picosecond Pulses in 90 nm SiGe BiCMOS'' --- EuMW'17 <br>
-**- C4:** ''An Ultra-Wide-band Impulse Receiver for sub-100fsec Time-Transfer and sub-30μm Localization'' --- RFIC'15  **(Best paper award finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7444359&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
-**- C3:** ''Ultra-Wideband Pulse-Based Directional Modulation'' --- IMaRC'15  **(Best paper award finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7411369&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
+**- C5:** ''A Nonlinear Impulse Sampler for Detection of Picosecond Pulses in 90 nm SiGe BiCMOS'' --- EuMW'17  **(Best Paper Award Finalist)**  <br>
+**- C4:** ''An Ultra-Wide-band Impulse Receiver for sub-100fsec Time-Transfer and sub-30μm Localization'' --- RFIC'15  **(Best Paper Award Finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7444359&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
+**- C3:** ''Ultra-Wideband Pulse-Based Directional Modulation'' --- IMaRC'15  **(Best Paper Award Finalist)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7411369&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
 **- C2:** ''A 40GS/s Track-and-Hold Amplifier with 62dB SFDR3 in 45nm CMOS SOI'' --- IMS'14  **(Honorable Mention)** [[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6848630&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
 **- C1:** ''Model Predictive Control Based Selective Harmonic Mitigation Technique for Multilevel Cascaded H-bridge Converters'' --- IECON'11 [[Link](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6120037&newsearch=true&queryText=H.%20Aggrawal){:target="_blank"}]<br>
 
