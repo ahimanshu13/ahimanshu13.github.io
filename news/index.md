@@ -4,7 +4,7 @@ title: News
 published: true
 ---
 
-- Travel grant to attend the IEEE European Microwave Integrated Circuits Conference --- June'17
+- Recipient of Student Grant by the IEEE European Microwave Association (EuMA) --- June'17
 - Nominated for EuMIC Young Engineer Award (Results pending)  --- May'17 [[Link](http://www.ece.rice.edu/news/Aggrawal-EuMC/){:target="_blank"}]
 - Paper accepted at the European Microwave Week  --- Apr'17
 - Paper accepted in the IEEE Transactions on Microwave Theory and Techniques --- Nov'16
