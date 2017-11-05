@@ -4,8 +4,10 @@ title: News
 published: true
 ---
 
+- Won European Microwave Association (EuMA) GAAS® PhD Fellowship  --- Oct'17 [[Link](https://eceweb.rice.edu/news/aggrawal-wins-fellowship){:target="_blank"}]
+- Won EuMIC Young Engineer Award (Declined)  --- Oct'17
 - Recipient of Student Grant by the IEEE European Microwave Association (EuMA) --- June'17
-- Nominated for EuMIC Young Engineer Award (Results pending)  --- May'17 [[Link](https://eceweb.rice.edu/news/201706-Aggrawal-Young-Engineer){:target="_blank"}]
+- Nominated for EuMIC Young Engineer Award  --- May'17 [[Link](https://eceweb.rice.edu/news/201706-Aggrawal-Young-Engineer){:target="_blank"}]
 - Paper accepted at the European Microwave Week  --- Apr'17
 - Paper accepted in the IEEE Transactions on Microwave Theory and Techniques --- Nov'16
 - NSF grant for developing Terabit-per-second Networking – Oct’16 [[Link](http://news.rice.edu/2016/10/11/marconi-inspires-rice-university-design-for-1-terabit-wireless-2/){:target="_blank"}]
