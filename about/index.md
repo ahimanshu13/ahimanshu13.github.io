@@ -64,4 +64,4 @@ td {
 </table>
 
 
-[**[CV]**](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}
+ [[CV]](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}
