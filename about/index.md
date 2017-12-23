@@ -30,7 +30,7 @@ td {
 <table>
   <tr>
     <th><b>Rice University, USA</b></th>
-    <th>Aug.’12 – May’17 (expected)</th>
+    <th>Aug.’12 – Dec’17</th>
   </tr>
   <tr>
     <td>M.S., Ph.D. Electrical & Computer Engineering</td>
@@ -62,3 +62,5 @@ td {
   </tr>
  
 </table>
+
+[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}
