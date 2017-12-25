@@ -11,4 +11,4 @@ published: true
 
 
 ## Sorry! There was an error in loading the webpage
-**Please click _[here](http://himanshua.com/){:target="_top"}_ to reload the page**
+**Please click [here](http://himanshua.com/){:target="_top"} to reload the page**
