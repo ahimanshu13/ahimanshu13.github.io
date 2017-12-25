@@ -33,5 +33,5 @@ published: true
 **- G2:** Securing Highly-Directional High-Frequency Communication -- NSF’15<br>
 **- G1:** Scaling WLAN Throughput and Range with Wide Aperture and 100× Spectrum Diversity -- NSF’14<br>
 
- ### [[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}]
+ [[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}]
  <br>
