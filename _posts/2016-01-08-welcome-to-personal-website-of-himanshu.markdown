@@ -8,8 +8,4 @@ tags:
 published: true
 ---
 
-<html>
-	<head>
- 		<meta http-equiv="Refresh" content="1;url=http://himanshua.com/">
- 	</head>
- </html>
+Sorry! There was an error in loading the webpage. Please click [here](http://himanshua.com/){:target="_top"} to reload the page.
