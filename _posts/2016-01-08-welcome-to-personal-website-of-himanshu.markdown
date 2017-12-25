@@ -10,6 +10,6 @@ published: true
 
 <html>
 	<head>
- 		<meta http-equiv="Refresh" content="1;url=http://himanshua.com/research/">
+ 		<meta http-equiv="Refresh" content="1;url=http://himanshua.com/">
  	</head>
  </html>
