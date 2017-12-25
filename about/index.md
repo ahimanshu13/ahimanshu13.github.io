@@ -63,5 +63,4 @@ td {
  
 </table>
 <br>
-
  [[CV]](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}
