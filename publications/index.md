@@ -6,9 +6,11 @@ published: true
 
 ### Patents
 
+**- P6:** ''RF Ultra-short Pulse-based Flow Imaging'' --- To be filed 2018<br>
+**- P5:** ''Secure Communication under Adversaries'' --- To be filed 2018<br>
 **- P4:** ''New Architecture for Ultra-fast Samplers'' --- Filed 2016<br>
-**- P3:** ''High-Speed Sampler with Active Cancellation'' --- Filed 2015<br>
-**- P2:** ''Ultra-wideband Pulse-based Directional Modulation'' --- Filed 2013<br>
+**- P3:** ''High-Speed Sampler with Active Cancellation'' --- Granted<br>
+**- P2:** ''Ultra-wideband Pulse-based Directional Modulation'' --- Granted<br>
 **- P1:** ''Systems and Methods for Active Cancellation for Improving Isolation of Transmission Gates in High-frequency Analog to Digital Converters” --- January'15 (US14/596,582) [[Link](https://www.google.com/patents/US9246505){:target="_blank"}]<br>
 
 
