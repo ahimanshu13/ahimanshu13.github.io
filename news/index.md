@@ -31,4 +31,4 @@ published: true
 - Travel sponsorship to attend the IEEE International Electronic Society Anual Conference --- Oct'11
 - Paper accepted at the IEEE International Electronic Society --- Sep'11
 
- **[[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}]**
+	 **[[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}]**
