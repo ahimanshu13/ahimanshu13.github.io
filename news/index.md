@@ -5,7 +5,7 @@ published: true
 ---
 
 - Accepted the position of visiting scholar at UCLA --- Jan'18
-- Sucessfully defended the Ph.D --- Nov'17 [[Link](http://himanshua.com/Documents/Defense.jpg){:target="_blank"}]
+- Sucessfully defended the Ph.D title ''Design & Applications of Silicon-Based Picosecond Pulse Systems'' --- Nov'17 [[Link](http://himanshua.com/Documents/Defense.jpg){:target="_blank"}]
 - Won European Microwave Association (EuMA) GAAS® PhD Fellowship  --- Oct'17 [[Link](https://eceweb.rice.edu/news/aggrawal-wins-fellowship){:target="_blank"}]
 - Won EuMIC Young Engineer Award (Declined)  --- Oct'17
 - Recipient of Student Grant by the IEEE European Microwave Association (EuMA) --- June'17
