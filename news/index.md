@@ -4,6 +4,8 @@ title: News
 published: true
 ---
 
+- Accepted the position of visiting scholar at UCLA --- Jan'18
+- Sucessfully defended the Ph.D --- Nov'17 [[Link](http://himanshua.com/Documents/Defense.jpg){:target="_blank"}]
 - Won European Microwave Association (EuMA) GAAS® PhD Fellowship  --- Oct'17 [[Link](https://eceweb.rice.edu/news/aggrawal-wins-fellowship){:target="_blank"}]
 - Won EuMIC Young Engineer Award (Declined)  --- Oct'17
 - Recipient of Student Grant by the IEEE European Microwave Association (EuMA) --- June'17
@@ -28,3 +30,5 @@ published: true
 - Graduate from Indian Institute of Technology with Bachelors of Techonology (B.Tech) --- May'12
 - Travel sponsorship to attend the IEEE International Electronic Society Anual Conference --- Oct'11
 - Paper accepted at the IEEE International Electronic Society --- Sep'11
+
+ **[[CV](http://himanshua.com/Documents/Resume.pdf){:target="_blank"}]**
