@@ -13,9 +13,9 @@ author:
   facebook_username:
   github_username:
   linkedin_username: haggrawal
-  web: http://www.ece.rice.edu/~ab28
-  scholar: https://scholar.google.com/citations?user=4pWM03cAAAAJ&hl=en
-  cv: http://himanshua.com/Documents/Resume.pdf
+  # web: http://www.ece.rice.edu/~ab28
+  # scholar: https://scholar.google.com/citations?user=4pWM03cAAAAJ&hl=en
+  # cv: http://himanshua.com/Documents/Resume.pdf
 
 defaults:
   -
