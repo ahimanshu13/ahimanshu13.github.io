@@ -1,6 +1,6 @@
 ---
 title: Welcome to Personal Website of Himanshu Aggrawal
-date: {}
+date: 2016-01-08T15:04:23.000Z
 categories:
   - personal
 tags:
