@@ -4,7 +4,7 @@ title: Favourite
 published: true
 ---
 
-## --A rolling list of some of my favourites--
+## **_-- A rolling list of some of my favourites --_**
 
 ### Books
 - Surely You're Joking, Mr. Feynman! by _Richard P. Feynman_
