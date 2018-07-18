@@ -17,4 +17,5 @@ published: true
 - Einstein - His Life and Universe by _Walter Isaacson_
 
 ### Quotes
-- _"Imagination is more important than knowledge"_ ~Albert Einstein
+- _Imagination is more important than knowledge_ ~ Albert Einstein
+- _The difference between the impossible and the possible is merely a measure of man’s determination_ ~ Captain James Thain
