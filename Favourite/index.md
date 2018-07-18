@@ -15,3 +15,6 @@ published: true
 - The Dresden Files by _Jim Butcher_
 - The Subtle Art of Not Giving a F*ck by _Mark Manson_
 - Einstein - His Life and Universe by _Walter Isaacson_
+
+### Quotes
+- > "Imagination is more important than knowledge" ~Albert Einstein
