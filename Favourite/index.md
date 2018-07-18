@@ -4,5 +4,9 @@ title: Favourite
 published: true
 ---
 
-- Accepted the position of visiting scholar at UCLA --- Jan'18
-- Sucessfully defended my Ph.D titled ''_Design & Applications of Silicon-Based Picosecond Pulse 
+## A rolling list of some of my favourites:
+
+### Books
+- Surely You're Joking, Mr. Feynman! by _Richard P. Feynman_
+- Ready Player One by _Ernest Cline_
+- Elon Musk by _Ashlee Vance_
